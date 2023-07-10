@@ -1,0 +1,12 @@
+.todos-header {
+  background: rgba(146, 146, 146, 0.5);
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  margin: 0;
+  font-size: 3rem;
+}
